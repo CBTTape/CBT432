@@ -1,0 +1,62 @@
+2023-04-03 00:14:55.115992 - Initialized conversion of CBT432
+2023-04-03 00:14:55.692949 - Received CBT.V504.FILE432.PDS from FILE432.XMI 
+2023-04-03 00:14:55.695661 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:14:55.696639 - Found $$DOC.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/$$DOC
+2023-04-03 00:14:55.697634 - Found $$XEPHON.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/$$XEPHON
+2023-04-03 00:14:55.698823 - Found $UPD2000.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/$UPD2000
+2023-04-03 00:14:55.699789 - Found @FILE432.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/@FILE432
+2023-04-03 00:14:55.700684 - Found ALLSTOP.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ALLSTOP
+2023-04-03 00:14:55.701527 - Found ALLSTOPG.jcl (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ALLSTOPG
+2023-04-03 00:14:55.702567 - Found ALLSTOPJ.jcl (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ALLSTOPJ
+2023-04-03 00:14:55.703671 - Found ALLSTOP6.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ALLSTOP6
+2023-04-03 00:14:55.704636 - Found ANALJCL.jcl (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ANALJCL
+2023-04-03 00:14:55.705550 - Found ANALJCLR.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ANALJCLR
+2023-04-03 00:14:55.706409 - Found ASCBS.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ASCBS
+2023-04-03 00:14:55.707336 - Found CONSOLE.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/CONSOLE
+2023-04-03 00:14:55.708231 - Found CONSOLEP.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/CONSOLEP
+2023-04-03 00:14:55.709073 - Found CONVERT.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/CONVERT
+2023-04-03 00:14:55.709900 - Found CONVRTP.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/CONVRTP
+2023-04-03 00:14:55.710803 - Found ERASETP.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ERASETP
+2023-04-03 00:14:55.711698 - Found EXEMPLES.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/EXEMPLES
+2023-04-03 00:14:55.712519 - Found EXP.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/EXP
+2023-04-03 00:14:55.713362 - Found EXTEND.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/EXTEND
+2023-04-03 00:14:55.714219 - Found ICHPWX01.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/ICHPWX01
+2023-04-03 00:14:55.715212 - Found IGGPRE00.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/IGGPRE00
+2023-04-03 00:14:55.715246 - Found INTERCPT.bin containing application/octet-stream, moved to PDS/INTERCPT
+2023-04-03 00:14:55.717064 - Found IRA200E.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/IRA200E
+2023-04-03 00:14:55.717929 - Found JESLESS.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/JESLESS
+2023-04-03 00:14:55.718875 - Found LISTSMS.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/LISTSMS
+2023-04-03 00:14:55.720004 - Found LISTVT.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/LISTVT
+2023-04-03 00:14:55.720896 - Found LISTVTOC.jcl (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/LISTVTOC
+2023-04-03 00:14:55.720905 - Found MGDOS.zip (application/zip), trying to unzip
+2023-04-03 00:14:55.721064 - Found MGDOS.zip (application/zip), extracting to CBT432/MGDOS
+2023-04-03 00:14:55.722562 - Found MGWIN.zip (application/zip), trying to unzip
+2023-04-03 00:14:55.722704 - Found MGWIN.zip (application/zip), extracting to CBT432/MGWIN
+2023-04-03 00:14:55.732382   - Bad CRC-32 for file 'VB40016.DLL'
+2023-04-03 00:14:55.732482 - Found MINIFRAN.bin containing application/octet-stream, moved to PDS/MINIFRAN
+2023-04-03 00:14:55.733739 - Found MINISYST.bin containing application/octet-stream, moved to PDS/MINISYST
+2023-04-03 00:14:55.735730 - Found MVSCMD.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/MVSCMD
+2023-04-03 00:14:55.736682 - Found PADS.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/PADS
+2023-04-03 00:14:55.737842 - Found PREMIER.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/PREMIER
+2023-04-03 00:14:55.738792 - Found PRINTHX.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/PRINTHX
+2023-04-03 00:14:55.739795 - Found PROLOG.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/PROLOG
+2023-04-03 00:14:55.739804 - Found PTKT.zip (application/zip), trying to unzip
+2023-04-03 00:14:55.739964 - Found PTKT.zip (application/zip), extracting to CBT432/PTKT
+2023-04-03 00:14:55.744509 - Found RACFCHCK.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/RACFCHCK
+2023-04-03 00:14:55.745406 - Found RACFMOVE.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/RACFMOVE
+2023-04-03 00:14:55.746320 - Found SHOWLPAR.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/SHOWLPAR
+2023-04-03 00:14:55.746331 - Found SHOWMVS.bin containing application/octet-stream, moved to PDS/SHOWMVS
+2023-04-03 00:14:55.748551 - Found SMFJOBS.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/SMFJOBS
+2023-04-03 00:14:55.749578 - Found SRMSHOW.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/SRMSHOW
+2023-04-03 00:14:55.750502 - Found SUSEC.rexx (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/SUSEC
+2023-04-03 00:14:55.751450 - Found SVC235.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/SVC235
+2023-04-03 00:14:55.752352 - Found TPUTXMAS.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/TPUTXMAS
+2023-04-03 00:14:55.753471 - Found VTOCR.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/VTOCR
+2023-04-03 00:14:55.754475 - Found VTOCR$$.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/VTOCR$$
+2023-04-03 00:14:55.755520 - Found VTOCREA$.jcl (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/VTOCREA$
+2023-04-03 00:14:55.756494 - Found VTOCREAD.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/VTOCREAD
+2023-04-03 00:14:55.757463 - Found VTOCR1.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/VTOCR1
+2023-04-03 00:14:55.757472 - Found VTOCZAP.bin containing application/octet-stream, moved to PDS/VTOCZAP
+2023-04-03 00:14:55.759370 - Found WEAKPASS.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/WEAKPASS
+2023-04-03 00:14:55.760304 - Found WTOPUT.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/WTOPUT
+2023-04-03 00:14:55.761265 - Found XTOD.txt (text/plain) in CBT.V504.FILE432.PDS, moved to PDS/XTOD
